@@ -80,4 +80,3 @@ git commit -m "Added README.md"
 git push
 
 
-Would you like me to also make a diagram (system architecture image) you can add inside the README so it looks extra professional on GitHub?
