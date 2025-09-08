@@ -59,12 +59,6 @@ Dockerize for scalable deployments
 
 Shiva Sai Surampally
 
-GitHub
-
-LinkedIn
-
-
----
 
 👉 Steps to add this:
 1. Create a file in your project folder:
